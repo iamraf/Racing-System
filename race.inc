@@ -2,7 +2,7 @@
 	Racing System 1.0 by Raf.
 	
 	Changelog:
-		Version 1.0 (17/07/2017 - 19:10)
+		Version 1.0 (17/07/2017 - 21:00)
 			- Initial Release
 */
 
