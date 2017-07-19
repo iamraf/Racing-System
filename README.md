@@ -29,15 +29,15 @@ Tested on bare.pwn.
   
 ## Installation:
 
-- Download `race.inc` and `Race` folder
+- Download `race.inc` and `Races` folder
 - Move `race.inc` to `./pawno/include/` 
-- Move `Race` folder into `./scriptfiles/`
+- Move `Races` folder into `./scriptfiles/`
 - Add `#include <race>` in your script
 - Profit
 	
  ## How to add Race:
  
-- Go to `./scriptfiles/Race/` folder
+- Go to `./scriptfiles/Races/` folder
 - Create new `.txt` file
 - In the first line add your Race properties separated with `|` 
 	- RaceName
